@@ -21,6 +21,9 @@ class ViewController: UIViewController {
     }
 
     
+    @IBAction func panStarted(sender: AnyObject) {
+        print("panStarted")
+    }
 
 }
 

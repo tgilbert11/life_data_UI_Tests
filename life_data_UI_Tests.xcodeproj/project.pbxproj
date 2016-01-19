@@ -14,6 +14,15 @@
 		B5043F1D1C4CDE7F00473959 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5043F1B1C4CDE7F00473959 /* LaunchScreen.storyboard */; };
 		B5043F281C4CDE7F00473959 /* life_data_UI_TestsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5043F271C4CDE7F00473959 /* life_data_UI_TestsTests.swift */; };
 		B5043F331C4CDE7F00473959 /* life_data_UI_TestsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5043F321C4CDE7F00473959 /* life_data_UI_TestsUITests.swift */; };
+		B5043F431C4DC12400473959 /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F421C4DC12400473959 /* Untitled.png */; };
+		B5043F451C4DC70000473959 /* snoozing.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F441C4DC70000473959 /* snoozing.png */; };
+		B5043F491C4DCA7000473959 /* gettingReady.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F481C4DCA7000473959 /* gettingReady.png */; };
+		B5043F4B1C4DD25600473959 /* gettingReadyHighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F4A1C4DD25600473959 /* gettingReadyHighlighted.png */; };
+		B5043F4D1C4DE80B00473959 /* driving.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F4C1C4DE80B00473959 /* driving.png */; };
+		B5043F4F1C4DE9D800473959 /* exercise.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F4E1C4DE9D800473959 /* exercise.png */; };
+		B5043F511C4DEA7700473959 /* lightActivity.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F501C4DEA7700473959 /* lightActivity.png */; };
+		B5043F551C4DED6F00473959 /* thinkingSedentary.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F541C4DED6F00473959 /* thinkingSedentary.png */; };
+		B5043F591C4DEEE300473959 /* passiveSedentary.png in Resources */ = {isa = PBXBuildFile; fileRef = B5043F581C4DEEE300473959 /* passiveSedentary.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		B5043F2E1C4CDE7F00473959 /* life_data_UI_TestsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = life_data_UI_TestsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5043F321C4CDE7F00473959 /* life_data_UI_TestsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = life_data_UI_TestsUITests.swift; sourceTree = "<group>"; };
 		B5043F341C4CDE7F00473959 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5043F421C4DC12400473959 /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Untitled.png; sourceTree = "<group>"; };
+		B5043F441C4DC70000473959 /* snoozing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snoozing.png; sourceTree = "<group>"; };
+		B5043F481C4DCA7000473959 /* gettingReady.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gettingReady.png; sourceTree = "<group>"; };
+		B5043F4A1C4DD25600473959 /* gettingReadyHighlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gettingReadyHighlighted.png; sourceTree = "<group>"; };
+		B5043F4C1C4DE80B00473959 /* driving.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = driving.png; sourceTree = "<group>"; };
+		B5043F4E1C4DE9D800473959 /* exercise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = exercise.png; sourceTree = "<group>"; };
+		B5043F501C4DEA7700473959 /* lightActivity.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lightActivity.png; sourceTree = "<group>"; };
+		B5043F541C4DED6F00473959 /* thinkingSedentary.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thinkingSedentary.png; sourceTree = "<group>"; };
+		B5043F581C4DEEE300473959 /* passiveSedentary.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = passiveSedentary.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +115,15 @@
 		B5043F111C4CDE7F00473959 /* life_data_UI_Tests */ = {
 			isa = PBXGroup;
 			children = (
+				B5043F421C4DC12400473959 /* Untitled.png */,
+				B5043F501C4DEA7700473959 /* lightActivity.png */,
+				B5043F4E1C4DE9D800473959 /* exercise.png */,
+				B5043F481C4DCA7000473959 /* gettingReady.png */,
+				B5043F541C4DED6F00473959 /* thinkingSedentary.png */,
+				B5043F4C1C4DE80B00473959 /* driving.png */,
+				B5043F581C4DEEE300473959 /* passiveSedentary.png */,
+				B5043F441C4DC70000473959 /* snoozing.png */,
+				B5043F4A1C4DD25600473959 /* gettingReadyHighlighted.png */,
 				B5043F121C4CDE7F00473959 /* AppDelegate.swift */,
 				B5043F141C4CDE7F00473959 /* ViewController.swift */,
 				B5043F161C4CDE7F00473959 /* Main.storyboard */,
@@ -229,7 +256,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5043F4B1C4DD25600473959 /* gettingReadyHighlighted.png in Resources */,
+				B5043F511C4DEA7700473959 /* lightActivity.png in Resources */,
+				B5043F4D1C4DE80B00473959 /* driving.png in Resources */,
+				B5043F451C4DC70000473959 /* snoozing.png in Resources */,
+				B5043F431C4DC12400473959 /* Untitled.png in Resources */,
+				B5043F491C4DCA7000473959 /* gettingReady.png in Resources */,
+				B5043F551C4DED6F00473959 /* thinkingSedentary.png in Resources */,
 				B5043F1D1C4CDE7F00473959 /* LaunchScreen.storyboard in Resources */,
+				B5043F4F1C4DE9D800473959 /* exercise.png in Resources */,
+				B5043F591C4DEEE300473959 /* passiveSedentary.png in Resources */,
 				B5043F1A1C4CDE7F00473959 /* Assets.xcassets in Resources */,
 				B5043F181C4CDE7F00473959 /* Main.storyboard in Resources */,
 			);
